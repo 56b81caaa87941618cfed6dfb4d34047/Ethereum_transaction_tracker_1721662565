@@ -36,5 +36,11 @@
         "content": "Will implement a sidebar with navlinks home, about and contact.",
         "timestamp": "22072024154550",
         "message_id": "guest22072024154549"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to find specific transactions\", \"checked\": true}, {\"feature\": \"Real-time notifications for new transactions\", \"checked\": false}, {\"feature\": \"User authentication system for personalized settings\", \"checked\": false}, {\"feature\": \"Interactive dashboard to visualize transaction trends\", \"checked\": true}, {\"feature\": \"Dark mode toggle for user interface\", \"checked\": false}, {\"feature\": \"Feedback form for user suggestions and issues\", \"checked\": true}], \"input_token_count\": 276, \"output_token_count\": 99, \"time_taken\": \"0:00:05.984003\"}",
+        "timestamp": "22072024154556",
+        "message_id": "guest22072024154549"
     }
 ]
