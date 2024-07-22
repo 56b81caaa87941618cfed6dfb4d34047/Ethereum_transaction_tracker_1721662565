@@ -12,5 +12,11 @@
         "content": "add a sidebar with the fields home, about and contact",
         "timestamp": "22072024154417",
         "message_id": "guest22072024154417"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, I am adding a sidebar with home, about and contact fields.",
+        "timestamp": "22072024154418",
+        "message_id": "guest22072024154417"
     }
 ]
