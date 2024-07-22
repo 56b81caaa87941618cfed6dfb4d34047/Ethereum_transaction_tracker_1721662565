@@ -6,5 +6,11 @@
         "timestamp": "1721662567",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the fields home, about and contact",
+        "timestamp": "22072024154417",
+        "message_id": "guest22072024154417"
     }
 ]
