@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a sidebar with the fields home, about and contact\nAI: Great, I am adding a sidebar with home, about and contact fields.\nThis is the user's current request of changes to be made: add a sidebar with the navlinks home, about and contact"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a sidebar with the fields home, about and contact\nAI: Great, I am adding a sidebar with home, about and contact fields.\nUser: add a sidebar with the navlinks home, about and contact\nAI: Will implement a sidebar with navlinks home, about and contact.\nThis is the user's current request of changes to be made: add a sidebar with the navlinks home, about and contact"
     }
 ]
