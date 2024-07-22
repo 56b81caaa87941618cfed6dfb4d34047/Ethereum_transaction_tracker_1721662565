@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to quickly find specific Ethereum transactions\", \"checked\": true}, {\"feature\": \"Real-time notifications for new transactions\", \"checked\": false}, {\"feature\": \"Interactive dashboard with summaries of latest transactions\", \"checked\": true}, {\"feature\": \"User profiles for customized transaction tracking\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle for usability at any time of day\", \"checked\": true}, {\"feature\": \"FAQ section for new users on navigating Ethereum transactions\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 110, \"time_taken\": \"0:00:08.377352\"}",
         "timestamp": "22072024154427",
         "message_id": "guest22072024154417"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "timestamp": "22072024154549",
+        "message_id": "guest22072024154549"
     }
 ]
