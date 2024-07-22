@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1721662567",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the fields home, about and contact",
-        "timestamp": "22072024154417",
-        "message_id": "guest22072024154417"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great, I am adding a sidebar with home, about and contact fields.",
-        "timestamp": "22072024154418",
-        "message_id": "guest22072024154417"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to quickly find specific Ethereum transactions\", \"checked\": true}, {\"feature\": \"Real-time notifications for new transactions\", \"checked\": false}, {\"feature\": \"Interactive dashboard with summaries of latest transactions\", \"checked\": true}, {\"feature\": \"User profiles for customized transaction tracking\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle for usability at any time of day\", \"checked\": true}, {\"feature\": \"FAQ section for new users on navigating Ethereum transactions\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 110, \"time_taken\": \"0:00:08.377352\"}",
-        "timestamp": "22072024154427",
-        "message_id": "guest22072024154417"
-    },
-    {
         "role": "user",
         "content": "add a sidebar with the navlinks home, about and contact",
-        "timestamp": "22072024154549",
-        "message_id": "guest22072024154549"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Will implement a sidebar with navlinks home, about and contact.",
-        "timestamp": "22072024154550",
-        "message_id": "guest22072024154549"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to find specific transactions\", \"checked\": true}, {\"feature\": \"Real-time notifications for new transactions\", \"checked\": false}, {\"feature\": \"User authentication system for personalized settings\", \"checked\": false}, {\"feature\": \"Interactive dashboard to visualize transaction trends\", \"checked\": true}, {\"feature\": \"Dark mode toggle for user interface\", \"checked\": false}, {\"feature\": \"Feedback form for user suggestions and issues\", \"checked\": true}], \"input_token_count\": 276, \"output_token_count\": 99, \"time_taken\": \"0:00:05.984003\"}",
-        "timestamp": "22072024154556",
-        "message_id": "guest22072024154549"
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the navlinks home, about and contact",
-        "timestamp": "22072024154730",
-        "message_id": "guest22072024154730"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I can add a sidebar featuring home, about and contact navlinks.",
-        "timestamp": "22072024154732",
-        "message_id": "guest22072024154730"
+        "message_id": "guest22072024165209",
+        "timestamp": "22072024165209",
+        "component_file_name": "purple_header_component_1721662567",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a responsive design for the sidebar for mobile and tablet view\", \"checked\": true}, {\"feature\": \"Add a user authentication system to restrict access to certain pages\", \"checked\": false}, {\"feature\": \"Incorporate a dark/light mode toggle on the sidebar for user preference\", \"checked\": true}, {\"feature\": \"Add tooltips for navlinks to provide more context on hover\", \"checked\": false}, {\"feature\": \"Implement dynamic highlighting on navlinks to indicate the current page\", \"checked\": true}, {\"feature\": \"Introduce an expand/collapse feature for the sidebar to enhance user experience on smaller screens\", \"checked\": false}], \"input_token_count\": 306, \"output_token_count\": 149, \"time_taken\": \"0:00:07.167338\"}",
+        "message_id": "guest22072024154730",
         "timestamp": "22072024154739",
-        "message_id": "guest22072024154730"
+        "component_file_name": "purple_header_component_1721662567",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I can add a sidebar featuring home, about and contact navlinks.",
+        "message_id": "guest22072024154730",
+        "timestamp": "22072024154732",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest22072024154730",
+        "timestamp": "22072024154730",
+        "component_file_name": "purple_header_component_1721662567",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to find specific transactions\", \"checked\": true}, {\"feature\": \"Real-time notifications for new transactions\", \"checked\": false}, {\"feature\": \"User authentication system for personalized settings\", \"checked\": false}, {\"feature\": \"Interactive dashboard to visualize transaction trends\", \"checked\": true}, {\"feature\": \"Dark mode toggle for user interface\", \"checked\": false}, {\"feature\": \"Feedback form for user suggestions and issues\", \"checked\": true}], \"input_token_count\": 276, \"output_token_count\": 99, \"time_taken\": \"0:00:05.984003\"}",
+        "message_id": "guest22072024154549",
+        "timestamp": "22072024154556",
+        "component_file_name": "purple_header_component_1721662567",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Will implement a sidebar with navlinks home, about and contact.",
+        "message_id": "guest22072024154549",
+        "timestamp": "22072024154550",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest22072024154549",
+        "timestamp": "22072024154549",
+        "component_file_name": "purple_header_component_1721662567",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar to quickly find specific Ethereum transactions\", \"checked\": true}, {\"feature\": \"Real-time notifications for new transactions\", \"checked\": false}, {\"feature\": \"Interactive dashboard with summaries of latest transactions\", \"checked\": true}, {\"feature\": \"User profiles for customized transaction tracking\", \"checked\": false}, {\"feature\": \"Dark/Light mode toggle for usability at any time of day\", \"checked\": true}, {\"feature\": \"FAQ section for new users on navigating Ethereum transactions\", \"checked\": false}], \"input_token_count\": 219, \"output_token_count\": 110, \"time_taken\": \"0:00:08.377352\"}",
+        "message_id": "guest22072024154417",
+        "timestamp": "22072024154427",
+        "component_file_name": "purple_header_component_1721662567",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, I am adding a sidebar with home, about and contact fields.",
+        "message_id": "guest22072024154417",
+        "timestamp": "22072024154418",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the fields home, about and contact",
+        "message_id": "guest22072024154417",
+        "timestamp": "22072024154417",
+        "component_file_name": "purple_header_component_1721662567",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "22072024165209",
+        "message_id": "guest22072024165209"
     }
 ]
