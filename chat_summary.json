@@ -54,5 +54,11 @@
         "content": "Sure, I can add a sidebar featuring home, about and contact navlinks.",
         "timestamp": "22072024154732",
         "message_id": "guest22072024154730"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a responsive design for the sidebar for mobile and tablet view\", \"checked\": true}, {\"feature\": \"Add a user authentication system to restrict access to certain pages\", \"checked\": false}, {\"feature\": \"Incorporate a dark/light mode toggle on the sidebar for user preference\", \"checked\": true}, {\"feature\": \"Add tooltips for navlinks to provide more context on hover\", \"checked\": false}, {\"feature\": \"Implement dynamic highlighting on navlinks to indicate the current page\", \"checked\": true}, {\"feature\": \"Introduce an expand/collapse feature for the sidebar to enhance user experience on smaller screens\", \"checked\": false}], \"input_token_count\": 306, \"output_token_count\": 149, \"time_taken\": \"0:00:07.167338\"}",
+        "timestamp": "22072024154739",
+        "message_id": "guest22072024154730"
     }
 ]
