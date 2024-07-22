@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with the fields home, about and contact",
+        "message_id": "guest22072024154417",
+        "timestamp": "22072024154417",
+        "component_file_name": "purple_header_component_1721662567",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
